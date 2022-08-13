@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@VinzTeched 
-VinzTeched
-/
-chat-and-messenger-with-python-flask
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-chat-and-messenger-with-python-flask/.gitignore
-@VinzTeched
-VinzTeched Update
-Latest commit 63a6b01 on 3 Jul
- History
- 1 contributor
-176 lines (145 sloc)  3.28 KB
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -202,19 +174,3 @@ static/images/site.webmanifest
 **/static/images/site.webmanifest
 app-new.py
 app-old.py
-
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
